@@ -2,6 +2,7 @@
 
 *   👋 Hi, I’m Roberto
 *   💻 I’m interested in Solidity, dApps, Web3, Smart contracts, DeFi, Blockchain.
+*   💛 I love building and deploying complex smart contracts on Ethereum/EVM and dApps for Web3.
 *   📫 How to reach me: <a href="https://www.linkedin.com/in/roberto-ag%C3%BCera-13706822/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## **💻 Languages and technologies**
