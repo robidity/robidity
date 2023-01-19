@@ -17,3 +17,8 @@ As well as:
 * ERC721
 * ERC1155
 * Ethers.js/web3.js
+
+## **📊 Statistics**
+
+https://github-readme-stats.vercel.app/api?username=robidity
+https://github-readme-stats.vercel.app/api/top-langs/?username=robidity
