@@ -15,4 +15,5 @@ As well as:
 * Blockchain
 * ERC20
 * ERC721
+* ERC1155
 * Ethers.js/web3.js
