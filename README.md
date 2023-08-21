@@ -18,6 +18,8 @@ As well as:
 * ERC721
 * ERC1155
 * Ethers.js/web3.js
+* Upgradeable Smart Contracts
+* Slither
 
 ## **📊 Statistics**
 
