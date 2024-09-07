@@ -26,3 +26,7 @@ As well as:
 ![https://github-readme-stats.vercel.app/api?username=robidity](https://github-readme-stats.vercel.app/api?username=robidity)
 
 ![https://github-readme-stats.vercel.app/api/top-langs/?username=robidity](https://github-readme-stats.vercel.app/api/top-langs/?username=robidity)
+
+## **🏆 GitHub Trophies**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=robidity&theme=radical)](https://github.com/robidity/github-profile-trophy)
